@@ -1,4 +1,4 @@
-<h1>Scripthanesi Link Kısaltma Scripti</h1>
+<h1>Scripthanesi Resim Yükleme Scripti</h1>
 
 <h3>Demo</h3><hr>
 Demo Link: https://hizliresim.scripthanesi.com
