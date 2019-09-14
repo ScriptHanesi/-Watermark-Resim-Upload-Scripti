@@ -20,4 +20,4 @@ Resimler resim/ klasörüne upload ediliyor.. upload.php den değiştirebilirsin
 İletişim: Mail(önerilen): info@scripthanesi.com | zulkuf.yalcin@scripthanesi.com | Link: https://www.scripthanesi.com/iletisim
 
 
-Scripthanesi PHP Link Kısaltma Scripti Scripthanesi PHP Link Shortener Script
+Scripthanesi Resim Yükleme Scripti Scripthanesi PHP Hizliresim Script
