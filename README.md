@@ -5,23 +5,15 @@ Demo Link: https://hizliresim.scripthanesi.com
 
 <h3>İndirme-Download</h3><hr>
 
-Yandex: https://yadi.sk/d/qQ8Kn1Rj998_Nw
+Yandex: https://yadi.sk/d/lHL0cuyxN0tlIA
 
-Github: https://github.com/ScriptHanesi/scripthanesi-link-kisaltma-scripti/
+Github: https://github.com/ScriptHanesi/-Watermark-Resim-Upload-Scripti/
 
 <h3>Kurulum-Install</h3><hr>
 
-<b>Türkçe</b> Gerekli dosyaları hostunuza-sunucunuza yükleyin sonra yeni bir veritabanı oluşturup dosyalar içerisindeki SQL dosyasını içe aktarın. Başka bir şey yapmanıza gerek yok.
-
-<b>English</b> Upload the required files to your host-server, then create a new database and import the SQL file inside the database. You don't have to do anything else.
-
-
-<h3>Dil-Language</h3><hr>
-
-<b>Türkçe</b> Varsayılan dil Türkçe'dir. Dili İngilizce yapmak için "language.php" içindeki her şeyi kopyalayın ve "dil.php" içine yapıştırın.
-
-<b>English</b> The default language is Turkish. To make the language English, copy everything in "language.php" and paste it into "dil.php".
-
+upload.php den gerekli ayarlamaları yapabilirsiniz.
+Kendi watermark kullanabilmeniz için resim/ klasöründe ki watermark.png değiştirmelisiniz.
+Resimler resim/ klasörüne upload ediliyor.. upload.php den değiştirebilirsiniz.
 
 <h3>İletişim-Contacts</h3><hr>
 
